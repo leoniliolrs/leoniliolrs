@@ -445,8 +445,8 @@ body {
 
   border-radius: 50%;
   background:
-    radial-gradient(rgba(0, 0, 0, 0.15) 60%, transparent 0),
-    radial-gradient(#000 68%, transparent 0),
+    radial-gradient(rgba(36, 35, 35, 0.15) 60%, transparent 0),
+    radial-gradient(#373535 68%, transparent 0),
     linear-gradient(to top right, #ffa500 0%, #ff1493 100%);
 }
 
