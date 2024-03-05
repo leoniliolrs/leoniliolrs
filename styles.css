@@ -101,7 +101,7 @@ body {
     position: fixed;
     right: 0;
     top: 0;
-    background: #333;
+    background: #3f3e3e;
     clip-path: circle(100px at 90% -20%);
 
     pointer-events: none;
