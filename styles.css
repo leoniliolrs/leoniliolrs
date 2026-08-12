@@ -1030,20 +1030,15 @@ body {
   }
 }
 
-#footer {
-  height: auto;
-  width: 100%;
 
-  padding: calc(3vw + 1rem) 0vw;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
-  margin-top: auto;
-
-  background: #191919;
+  footer {
+    text-align: center;
+    color: white;
+    background-color: #111;
+    padding: 20px;
+    width: 100%;
 }
+
 
 .container-footer {
   display: flex;
