@@ -341,12 +341,13 @@
   </section>
 
   <!-- Footer -->
-  <section id="footer">
-    <div class="container-footer">
-      <h2>Feito por</h2>
-      <h3>Leonilio © 2026</h3>
-    </div>
-  </section>
+  <footer>
+    &copy; <span id="ano"></span> Leonilio. Todos os direitos reservados.
+</footer>
+
+<script>
+    document.getElementById("ano").textContent = new Date().getFullYear();
+</script>
   <!-- End Footer -->
   <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
 
